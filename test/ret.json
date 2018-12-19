@@ -1,0 +1,2880 @@
+[
+    {
+        "label": "中国",
+        "value": "中国",
+        "children": [
+            {
+                "children": [
+                    {
+                        "value": "1000",
+                        "label": "北京",
+                        "parentLabel": "华北地区",
+                        "parentCode": "101",
+                        "level": 3
+                    },
+                    {
+                        "value": "3000",
+                        "label": "天津",
+                        "parentLabel": "华北地区",
+                        "parentCode": "102",
+                        "level": 3
+                    },
+                    {
+                        "value": "13000",
+                        "label": "河北",
+                        "parentLabel": "华北地区",
+                        "parentCode": "103",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "保定",
+                                "value": "13304",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "沧州",
+                                "value": "13305",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "承德",
+                                "value": "13306",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "廊坊",
+                                "value": "13307",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "秦皇岛",
+                                "value": "13325",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "邢台",
+                                "value": "13326",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "石家庄",
+                                "value": "13327",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "唐山",
+                                "value": "13329",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "邯郸",
+                                "value": "13330",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "张家口",
+                                "value": "13331",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            },
+                            {
+                                "label": "衡水",
+                                "value": "13332",
+                                "parentLabel": "河北",
+                                "parentCode": "103",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "26000",
+                        "label": "山西",
+                        "parentLabel": "华北地区",
+                        "parentCode": "104",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "晋城",
+                                "value": "26205",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "晋中",
+                                "value": "26206",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "长治",
+                                "value": "26209",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "吕梁",
+                                "value": "26210",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "临汾",
+                                "value": "26211",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "忻州",
+                                "value": "26212",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "朔州",
+                                "value": "26213",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "太原",
+                                "value": "26214",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "阳泉",
+                                "value": "26215",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "运城",
+                                "value": "26216",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            },
+                            {
+                                "label": "大同",
+                                "value": "26217",
+                                "parentLabel": "山西",
+                                "parentCode": "104",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "22000",
+                        "label": "内蒙古",
+                        "parentLabel": "华北地区",
+                        "parentCode": "105",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "赤峰",
+                                "value": "22158",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "阿拉善盟",
+                                "value": "22159",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "兴安盟",
+                                "value": "22160",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "通辽",
+                                "value": "22161",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "巴彦淖尔",
+                                "value": "22162",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "乌兰察布",
+                                "value": "22163",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "乌海",
+                                "value": "22164",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "锡林郭勒盟",
+                                "value": "22165",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "呼伦贝尔",
+                                "value": "22166",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "呼和浩特",
+                                "value": "22167",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "鄂尔多斯",
+                                "value": "22168",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            },
+                            {
+                                "label": "包头",
+                                "value": "22169",
+                                "parentLabel": "内蒙古",
+                                "parentCode": "105",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "华北地区",
+                "value": "华北地区"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "label": "延边",
+                                "value": "18047",
+                                "parentLabel": "吉林",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "丹东",
+                                "value": "21144",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "本溪",
+                                "value": "21145",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "锦州",
+                                "value": "21146",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "朝阳",
+                                "value": "21147",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "辽阳",
+                                "value": "21148",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "盘锦",
+                                "value": "21149",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "阜新",
+                                "value": "21150",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "鞍山",
+                                "value": "21151",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "抚顺",
+                                "value": "21152",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "沈阳",
+                                "value": "21153",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "铁岭",
+                                "value": "21154",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "大连",
+                                "value": "21155",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "营口",
+                                "value": "21156",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            },
+                            {
+                                "label": "葫芦岛",
+                                "value": "21157",
+                                "parentLabel": "辽宁",
+                                "parentCode": "201",
+                                "level": 4
+                            }
+                        ],
+                        "value": "21000",
+                        "label": "辽宁",
+                        "parentLabel": "东北地区",
+                        "parentCode": "201",
+                        "level": 3
+                    },
+                    {
+                        "value": "18000",
+                        "label": "吉林",
+                        "parentLabel": "东北地区",
+                        "parentCode": "202",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "吉林",
+                                "value": "18038",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "白城",
+                                "value": "18039",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "长春",
+                                "value": "18040",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "辽源",
+                                "value": "18041",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "白山",
+                                "value": "18042",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "四平",
+                                "value": "18043",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "松原",
+                                "value": "18044",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            },
+                            {
+                                "label": "通化",
+                                "value": "18045",
+                                "parentLabel": "吉林",
+                                "parentCode": "202",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "15000",
+                        "label": "黑龙江",
+                        "parentLabel": "东北地区",
+                        "parentCode": "203",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "鸡西",
+                                "value": "15333",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "佳木斯",
+                                "value": "15334",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "哈尔滨",
+                                "value": "15335",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "牡丹江",
+                                "value": "15336",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "齐齐哈尔",
+                                "value": "15337",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "七台河",
+                                "value": "15338",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "绥化",
+                                "value": "15339",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "双鸭山",
+                                "value": "15340",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "伊春",
+                                "value": "15341",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "大庆",
+                                "value": "15342",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "大兴安岭",
+                                "value": "15343",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "鹤岗",
+                                "value": "15344",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            },
+                            {
+                                "label": "黑河",
+                                "value": "15345",
+                                "parentLabel": "黑龙江",
+                                "parentCode": "203",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "东北地区",
+                "value": "东北地区"
+            },
+            {
+                "children": [
+                    {
+                        "value": "2000",
+                        "label": "上海",
+                        "parentLabel": "华东地区",
+                        "parentCode": "301",
+                        "level": 3
+                    },
+                    {
+                        "value": "19000",
+                        "label": "江苏",
+                        "parentLabel": "华东地区",
+                        "parentCode": "302",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "淮安",
+                                "value": "19053",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "常州",
+                                "value": "19054",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "南京",
+                                "value": "19055",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "南通",
+                                "value": "19056",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "连云港",
+                                "value": "19057",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "徐州",
+                                "value": "19058",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "苏州",
+                                "value": "19059",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "宿迁",
+                                "value": "19060",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "泰州",
+                                "value": "19061",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "无锡",
+                                "value": "19062",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "盐城",
+                                "value": "19063",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "扬州",
+                                "value": "19064",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            },
+                            {
+                                "label": "镇江",
+                                "value": "19065",
+                                "parentLabel": "江苏",
+                                "parentCode": "302",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "32000",
+                        "label": "浙江",
+                        "parentLabel": "华东地区",
+                        "parentCode": "303",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "金华",
+                                "value": "32272",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "嘉兴",
+                                "value": "32273",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "衢州",
+                                "value": "32274",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "丽水",
+                                "value": "32275",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "宁波",
+                                "value": "32276",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "绍兴",
+                                "value": "32277",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "温州",
+                                "value": "32278",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "台州",
+                                "value": "32279",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "杭州",
+                                "value": "32280",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "舟山",
+                                "value": "32281",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            },
+                            {
+                                "label": "湖州",
+                                "value": "32282",
+                                "parentLabel": "浙江",
+                                "parentCode": "303",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "9000",
+                        "label": "安徽",
+                        "parentLabel": "华东地区",
+                        "parentCode": "304",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "淮北",
+                                "value": "9127",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "安庆",
+                                "value": "9128",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "巢湖",
+                                "value": "9129",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "池州",
+                                "value": "9130",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "滁州",
+                                "value": "9131",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "黄山",
+                                "value": "9132",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "淮南",
+                                "value": "9133",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "马鞍山",
+                                "value": "9134",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "六安",
+                                "value": "9135",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "宣城",
+                                "value": "9136",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "宿州",
+                                "value": "9137",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "铜陵",
+                                "value": "9138",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "芜湖",
+                                "value": "9139",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "阜阳",
+                                "value": "9140",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "蚌埠",
+                                "value": "9141",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "合肥",
+                                "value": "9142",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            },
+                            {
+                                "label": "亳州",
+                                "value": "9143",
+                                "parentLabel": "安徽",
+                                "parentCode": "304",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "5000",
+                        "label": "福建",
+                        "parentLabel": "华东地区",
+                        "parentCode": "305",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "莆田",
+                                "value": "5048",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "南平",
+                                "value": "5049",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "龙岩",
+                                "value": "5050",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "宁德",
+                                "value": "5051",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "泉州",
+                                "value": "5052",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "三明",
+                                "value": "5066",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "厦门",
+                                "value": "5070",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "漳州",
+                                "value": "5080",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            },
+                            {
+                                "label": "福州",
+                                "value": "5081",
+                                "parentLabel": "福建",
+                                "parentCode": "305",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "20000",
+                        "label": "江西",
+                        "parentLabel": "华东地区",
+                        "parentCode": "306",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "九江",
+                                "value": "20067",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "吉安",
+                                "value": "20068",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "景德镇",
+                                "value": "20069",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "萍乡",
+                                "value": "20071",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "南昌",
+                                "value": "20072",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "新余",
+                                "value": "20073",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "上饶",
+                                "value": "20074",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "宜春",
+                                "value": "20075",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "鹰潭",
+                                "value": "20076",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "赣州",
+                                "value": "20077",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            },
+                            {
+                                "label": "抚州",
+                                "value": "20078",
+                                "parentLabel": "江西",
+                                "parentCode": "306",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "25000",
+                        "label": "山东",
+                        "parentLabel": "华东地区",
+                        "parentCode": "307",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "济南",
+                                "value": "25196",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "济宁",
+                                "value": "25197",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "莱芜",
+                                "value": "25198",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "聊城",
+                                "value": "25199",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "德州",
+                                "value": "25200",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "临沂",
+                                "value": "25201",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "青岛",
+                                "value": "25202",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "日照",
+                                "value": "25203",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "潍坊",
+                                "value": "25204",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "淄博",
+                                "value": "25207",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "泰安",
+                                "value": "25208",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "威海",
+                                "value": "25218",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "烟台",
+                                "value": "25219",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "东营",
+                                "value": "25220",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "枣庄",
+                                "value": "25221",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "菏泽",
+                                "value": "25222",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            },
+                            {
+                                "label": "滨州",
+                                "value": "25223",
+                                "parentLabel": "山东",
+                                "parentCode": "307",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "华东地区",
+                "value": "华东地区"
+            },
+            {
+                "children": [
+                    {
+                        "value": "14000",
+                        "label": "河南",
+                        "parentLabel": "华中地区",
+                        "parentCode": "401",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "焦作",
+                                "value": "14308",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "安阳",
+                                "value": "14309",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "开封",
+                                "value": "14310",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "洛阳",
+                                "value": "14311",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "漯河",
+                                "value": "14312",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "平顶山",
+                                "value": "14313",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "驻马店",
+                                "value": "14314",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "南阳",
+                                "value": "14315",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "濮阳",
+                                "value": "14316",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "新乡",
+                                "value": "14317",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "信阳",
+                                "value": "14318",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "许昌",
+                                "value": "14319",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "商丘",
+                                "value": "14320",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "三门峡",
+                                "value": "14321",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "郑州",
+                                "value": "14322",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "鹤壁",
+                                "value": "14323",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "周口",
+                                "value": "14324",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            },
+                            {
+                                "label": "济源",
+                                "value": "14476",
+                                "parentLabel": "河南",
+                                "parentCode": "401",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "16000",
+                        "label": "湖北",
+                        "parentLabel": "华中地区",
+                        "parentCode": "402",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "荆门",
+                                "value": "16346",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "荆州",
+                                "value": "16347",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "黄石",
+                                "value": "16348",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "黄冈",
+                                "value": "16349",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "潜江",
+                                "value": "16364",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "孝感",
+                                "value": "16365",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "恩施",
+                                "value": "16366",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "随州",
+                                "value": "16367",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "神农架",
+                                "value": "16368",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "十堰",
+                                "value": "16369",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "襄阳",
+                                "value": "16370",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "武汉",
+                                "value": "16371",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "仙桃",
+                                "value": "16372",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "天门",
+                                "value": "16373",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "咸宁",
+                                "value": "16375",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "宜昌",
+                                "value": "16376",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            },
+                            {
+                                "label": "鄂州",
+                                "value": "16377",
+                                "parentLabel": "湖北",
+                                "parentCode": "402",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "17000",
+                        "label": "湖南",
+                        "parentLabel": "华中地区",
+                        "parentCode": "403",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "怀化",
+                                "value": "17350",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "常德",
+                                "value": "17351",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "长沙",
+                                "value": "17352",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "郴州",
+                                "value": "17353",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "娄底",
+                                "value": "17354",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "邵阳",
+                                "value": "17355",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "湘潭",
+                                "value": "17356",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "湘西",
+                                "value": "17357",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "张家界",
+                                "value": "17358",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "益阳",
+                                "value": "17359",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "衡阳",
+                                "value": "17360",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "岳阳",
+                                "value": "17361",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "永州",
+                                "value": "17362",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            },
+                            {
+                                "label": "株洲",
+                                "value": "17363",
+                                "parentLabel": "湖南",
+                                "parentCode": "403",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "华中地区",
+                "value": "华中地区"
+            },
+            {
+                "children": [
+                    {
+                        "value": "4000",
+                        "label": "广东",
+                        "parentLabel": "华南地区",
+                        "parentCode": "501",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "江门",
+                                "value": "4082",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "揭阳",
+                                "value": "4083",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "广州",
+                                "value": "4084",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "潮州",
+                                "value": "4085",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "茂名",
+                                "value": "4086",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "梅州",
+                                "value": "4088",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "清远",
+                                "value": "4089",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "佛山",
+                                "value": "4090",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "汕头",
+                                "value": "4091",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "汕尾",
+                                "value": "4092",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "深圳",
+                                "value": "4093",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "韶关",
+                                "value": "4094",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "阳江",
+                                "value": "4109",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "湛江",
+                                "value": "4110",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "云浮",
+                                "value": "4111",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "中山",
+                                "value": "4112",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "珠海",
+                                "value": "4113",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "肇庆",
+                                "value": "4114",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "河源",
+                                "value": "4115",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "东莞",
+                                "value": "4116",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            },
+                            {
+                                "label": "惠州",
+                                "value": "4117",
+                                "parentLabel": "广东",
+                                "parentCode": "501",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "8000",
+                        "label": "海南",
+                        "parentLabel": "华南地区",
+                        "parentCode": "502",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "东方",
+                                "value": "8296",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "琼海",
+                                "value": "8297",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "三亚",
+                                "value": "8298",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "文昌",
+                                "value": "8299",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "五指山",
+                                "value": "8300",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "万宁",
+                                "value": "8301",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "海口",
+                                "value": "8302",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "儋州",
+                                "value": "8303",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "定安县",
+                                "value": "8484",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "屯昌县",
+                                "value": "8485",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "陵水黎族自治县",
+                                "value": "8486",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "澄迈县",
+                                "value": "8487",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "保亭黎族苗族自治县",
+                                "value": "8488",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "琼中黎族苗族自治县",
+                                "value": "8489",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "乐东黎族自治县",
+                                "value": "8490",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "临高县",
+                                "value": "8491",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "昌江黎族自治县",
+                                "value": "8492",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            },
+                            {
+                                "label": "白沙黎族自治县",
+                                "value": "8493",
+                                "parentLabel": "海南",
+                                "parentCode": "502",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "12000",
+                        "label": "广西",
+                        "parentLabel": "华南地区",
+                        "parentCode": "503",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "桂林",
+                                "value": "12095",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "贵港",
+                                "value": "12096",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "防城港",
+                                "value": "12098",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "南宁",
+                                "value": "12099",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "来宾",
+                                "value": "12100",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "柳州",
+                                "value": "12101",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "钦州",
+                                "value": "12102",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "梧州",
+                                "value": "12103",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "北海",
+                                "value": "12104",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "玉林",
+                                "value": "12105",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "河池",
+                                "value": "12106",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "贺州",
+                                "value": "12107",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "百色",
+                                "value": "12108",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            },
+                            {
+                                "label": "崇左",
+                                "value": "12478",
+                                "parentLabel": "广西",
+                                "parentCode": "503",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "华南地区",
+                "value": "华南地区"
+            },
+            {
+                "children": [
+                    {
+                        "value": "33000",
+                        "label": "重庆",
+                        "parentLabel": "西南地区",
+                        "parentCode": "601",
+                        "level": 3
+                    },
+                    {
+                        "value": "28000",
+                        "label": "四川",
+                        "parentLabel": "西南地区",
+                        "parentCode": "602",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "广安",
+                                "value": "28224",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "广元",
+                                "value": "28225",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "成都",
+                                "value": "28226",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "眉山",
+                                "value": "28227",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "凉山",
+                                "value": "28228",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "绵阳",
+                                "value": "28229",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "攀枝花",
+                                "value": "28230",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "南充",
+                                "value": "28231",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "德阳",
+                                "value": "28232",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "乐山",
+                                "value": "28233",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "泸州",
+                                "value": "28234",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "内江",
+                                "value": "28235",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "甘孜",
+                                "value": "28236",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "遂宁",
+                                "value": "28237",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "资阳",
+                                "value": "28238",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "巴中",
+                                "value": "28247",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "达州",
+                                "value": "28250",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "雅安",
+                                "value": "28251",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "阿坝",
+                                "value": "28252",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "自贡",
+                                "value": "28253",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            },
+                            {
+                                "label": "宜宾",
+                                "value": "28254",
+                                "parentLabel": "四川",
+                                "parentCode": "602",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "10000",
+                        "label": "贵州",
+                        "parentLabel": "西南地区",
+                        "parentCode": "603",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "贵阳",
+                                "value": "10118",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "安顺",
+                                "value": "10119",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "六盘水",
+                                "value": "10120",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "黔南",
+                                "value": "10121",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "黔东南",
+                                "value": "10122",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "黔西南",
+                                "value": "10123",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "毕节",
+                                "value": "10124",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "铜仁",
+                                "value": "10125",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            },
+                            {
+                                "label": "遵义",
+                                "value": "10126",
+                                "parentLabel": "贵州",
+                                "parentCode": "603",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "31000",
+                        "label": "云南",
+                        "parentLabel": "西南地区",
+                        "parentCode": "604",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "楚雄",
+                                "value": "31283",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "昆明",
+                                "value": "31284",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "丽江",
+                                "value": "31285",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "德宏",
+                                "value": "31286",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "临沧",
+                                "value": "31287",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "曲靖",
+                                "value": "31288",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "保山",
+                                "value": "31289",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "普洱",
+                                "value": "31290",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "文山",
+                                "value": "31291",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "大理",
+                                "value": "31292",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "红河",
+                                "value": "31293",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "昭通",
+                                "value": "31294",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "玉溪",
+                                "value": "31295",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "怒江",
+                                "value": "31481",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "迪庆",
+                                "value": "31482",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            },
+                            {
+                                "label": "西双版纳",
+                                "value": "31483",
+                                "parentLabel": "云南",
+                                "parentCode": "604",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "29000",
+                        "label": "西藏",
+                        "parentLabel": "西南地区",
+                        "parentCode": "605",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "那曲",
+                                "value": "29268",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            },
+                            {
+                                "label": "拉萨",
+                                "value": "29269",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            },
+                            {
+                                "label": "林芝",
+                                "value": "29270",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            },
+                            {
+                                "label": "日喀则",
+                                "value": "29271",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            },
+                            {
+                                "label": "昌都",
+                                "value": "29480",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            },
+                            {
+                                "label": "山南",
+                                "value": "29497",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            },
+                            {
+                                "label": "阿里",
+                                "value": "29498",
+                                "parentLabel": "西藏",
+                                "parentCode": "605",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "西南地区",
+                "value": "西南地区"
+            },
+            {
+                "children": [
+                    {
+                        "value": "27000",
+                        "label": "陕西",
+                        "parentLabel": "西北地区",
+                        "parentCode": "701",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "宝鸡",
+                                "value": "27239",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "安康",
+                                "value": "27240",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "商洛",
+                                "value": "27241",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "铜川",
+                                "value": "27242",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "渭南",
+                                "value": "27243",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "西安",
+                                "value": "27244",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "咸阳",
+                                "value": "27245",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "延安",
+                                "value": "27246",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "汉中",
+                                "value": "27248",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            },
+                            {
+                                "label": "榆林",
+                                "value": "27249",
+                                "parentLabel": "陕西",
+                                "parentCode": "701",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "11000",
+                        "label": "甘肃",
+                        "parentLabel": "西北地区",
+                        "parentCode": "702",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "酒泉",
+                                "value": "11255",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "金昌",
+                                "value": "11256",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "嘉峪关",
+                                "value": "11257",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "兰州",
+                                "value": "11258",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "陇南",
+                                "value": "11259",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "平凉",
+                                "value": "11260",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "临夏",
+                                "value": "11261",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "庆阳",
+                                "value": "11262",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "定西",
+                                "value": "11263",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "武威",
+                                "value": "11264",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "天水",
+                                "value": "11265",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "张掖",
+                                "value": "11266",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "白银",
+                                "value": "11267",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            },
+                            {
+                                "label": "甘南",
+                                "value": "11477",
+                                "parentLabel": "甘肃",
+                                "parentCode": "702",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "24000",
+                        "label": "青海",
+                        "parentLabel": "西北地区",
+                        "parentCode": "703",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "西宁",
+                                "value": "24175",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "海东",
+                                "value": "24176",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "海西",
+                                "value": "24177",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "玉树",
+                                "value": "24178",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "海南",
+                                "value": "24479",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "海北",
+                                "value": "24494",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "黄南",
+                                "value": "24495",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            },
+                            {
+                                "label": "果洛",
+                                "value": "24496",
+                                "parentLabel": "青海",
+                                "parentCode": "703",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "23000",
+                        "label": "宁夏",
+                        "parentLabel": "西北地区",
+                        "parentCode": "704",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "固原",
+                                "value": "23170",
+                                "parentLabel": "宁夏",
+                                "parentCode": "704",
+                                "level": 4
+                            },
+                            {
+                                "label": "石嘴山",
+                                "value": "23171",
+                                "parentLabel": "宁夏",
+                                "parentCode": "704",
+                                "level": 4
+                            },
+                            {
+                                "label": "吴忠",
+                                "value": "23172",
+                                "parentLabel": "宁夏",
+                                "parentCode": "704",
+                                "level": 4
+                            },
+                            {
+                                "label": "中卫",
+                                "value": "23173",
+                                "parentLabel": "宁夏",
+                                "parentCode": "704",
+                                "level": 4
+                            },
+                            {
+                                "label": "银川",
+                                "value": "23174",
+                                "parentLabel": "宁夏",
+                                "parentCode": "704",
+                                "level": 4
+                            }
+                        ]
+                    },
+                    {
+                        "value": "30000",
+                        "label": "新疆",
+                        "parentLabel": "西北地区",
+                        "parentCode": "705",
+                        "level": 3,
+                        "children": [
+                            {
+                                "label": "哈密",
+                                "value": "30179",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "博尔塔拉",
+                                "value": "30180",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "昌吉",
+                                "value": "30181",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "阿勒泰",
+                                "value": "30182",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "喀什",
+                                "value": "30183",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "克拉玛依",
+                                "value": "30184",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "阿克苏",
+                                "value": "30185",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "克孜勒苏柯尔克孜",
+                                "value": "30186",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "石河子",
+                                "value": "30187",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "塔城",
+                                "value": "30188",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "五家渠",
+                                "value": "30189",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "吐鲁番",
+                                "value": "30190",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "巴音郭楞",
+                                "value": "30191",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "乌鲁木齐",
+                                "value": "30192",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "伊犁",
+                                "value": "30193",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "和田",
+                                "value": "30195",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "阿拉尔",
+                                "value": "30499",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            },
+                            {
+                                "label": "图木舒克",
+                                "value": "30500",
+                                "parentLabel": "新疆",
+                                "parentCode": "705",
+                                "level": 4
+                            }
+                        ]
+                    }
+                ],
+                "level": 2,
+                "label": "西北地区",
+                "value": "西北地区"
+            },
+            {
+                "children": [
+                    {
+                        "value": "34000",
+                        "label": "香港",
+                        "parentLabel": "其他地区",
+                        "parentCode": "801",
+                        "level": 3
+                    },
+                    {
+                        "value": "36000",
+                        "label": "澳门",
+                        "parentLabel": "其他地区",
+                        "parentCode": "802",
+                        "level": 3
+                    },
+                    {
+                        "value": "35000",
+                        "label": "台湾",
+                        "parentLabel": "其他地区",
+                        "parentCode": "803",
+                        "level": 3
+                    }
+                ],
+                "level": 2,
+                "label": "其他地区",
+                "value": "其他地区"
+            }
+        ]
+    },
+    {
+        "label": "国外",
+        "value": "国外",
+        "children": [
+            {
+                "label": "日本",
+                "value": "200000",
+                "parentCode": "901",
+                "parentLabel": "国外"
+            },
+            {
+                "label": "其他国家（除日本外）",
+                "value": "300000",
+                "parentCode": "1001",
+                "parentLabel": "国外"
+            }
+        ]
+    }
+]
